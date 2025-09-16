@@ -1,0 +1,284 @@
+---
+title: My First Closeread
+format:
+  closeread-html:
+    cr-section:
+      layout: "sidebar-left"
+    cr-style:
+      narrative-background-color-overlay: darkblue
+      narrative-text-color-overlay: orange
+      section-background-color: white
+      narrative-background-color-sidebar: darkblue
+      narrative-text-color-sidebar: orange
+
+---
+
+This is your template document. 
+
+Let's see what kinds of stories we can tell with *Closeread*.
+
+:::{.cr-section}
+Get scrolling....
+
+
+
+
+
+
+
+
+
+
+
+
+:::{#cr-image_fin}
+![](fin.jpg)
+:::
+
+Keep going....
+@cr-image_fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep going....
+[@cr-image_fin]{scale-by="2"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep going....
+[@cr-image_fin]{scale-by="4"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:::{#cr-image_shark}
+![](shark.jpeg)
+:::
+You should be writing!
+@cr-image_shark
+
+`https://www.inaturalist.org/observations/256139070` 
+:::
+
+## **Linking Plots: It's all about those transitions!**
+
+:::{.cr-section}
+:::{#cr-image_ex1}
+![](shark1.png)
+:::
+
+:::{#cr-image_ex2}
+![](shark2.png)
+:::
+
+:::{#cr-image_ex3}
+![](shark3.png)
+:::
+
+
+:::{#cr-image_ex4}
+![](shark4.png)
+:::
+
+:::{#cr-image_ex5}
+![](shark5.png)
+:::
+
+:::{#cr-image_ex6}
+![](national-parks-map-corrected2.jpg)
+:::
+
+Got sharks? We will be looking at Great White Shark sightings reported to iNaturalist across the globe, going the whole way back to 1950.
+
+
+
+
+
+First we'll set the scene. @cr-image_ex1
+
+
+
+
+
+
+
+
+
+Let's go back in time. @cr-image_ex2
+
+
+
+
+
+
+
+
+
+
+
+Time passes....
+ @cr-image_ex3
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+and passes.... As it does: what do you notice about locations that have many observations? Are these "hotspots" consistent across decades?
+
+@cr-image_ex4
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's zoom in on Australia.
+@cr-image_ex5
+
+
+
+
+
+
+
+
+
+What's going on with that lone shark on the west coast?
+[@cr-image_ex5]{pan-to="50%,50%" scale-by="2"}
+
+
+
+
+
+
+
+**Writing Prompt**: Write from the point of view of the shark that was spotted. Why would they want to travel alone in a new location? How did they get there, and where are they coming from?
+
+
+
+
+
+
+
+**Need plots for your own story? Get some inspiration here**: `https://sara-stoudt.shinyapps.io/movement/` In particular, check out the "National Parks: A Deeper Dive" tab.
+@cr-image_ex6
+:::
+
+
+## **What to Emphasize?**
+
+:::{.cr-section}
+| {#cr-start-wildlife}
+| i sing a scorched song. walking the charred ground, the palm fronds and yucca still smoking, burning their black
+| hosannas into the loam. i sing of the earth, born of fire, and born again out of each burn. this is a lightning
+| land, the longleaf pine country, dependent on flame, on extinguishing. not all conflagration is death and dying,
+| not all hellfire. remember the flicker of the cherub’s sword protecting the garden?—this is that breath of blaze.
+
+| {#cr-erase-wildlife .scale-to-fill}
+| [i]{style="background-color:black;color:black"} sing [a]{style="background-color:black;color:black"} scorched [song. walking the charred]{style="background-color:black;color:black"} ground, [the palm fronds and ]{style="background-color:black;color:black"}y[ucca still sm]{style="background-color:black;color:black"}o[king, b]{style="background-color:black;color:black"}ur[ning their ]{style="background-color:black;color:black"}black
+
+
+
+| {#cr-erase-wildlife2}
+| [i]{style="background-color:black;color:black"} sing [a]{style="background-color:black;color:black"} scorched [song. walking the charred]{style="background-color:black;color:black"} ground, [the palm fronds and ]{style="background-color:black;color:black"}y[ucca still sm]{style="background-color:black;color:black"}o[king, b]{style="background-color:black;color:black"}ur[ning their ]{style="background-color:black;color:black"}black
+| hosannas into the loam. i sing of the earth, born of fire, and born again out of each burn. this is a lightning
+| land, the longleaf pine country, dependent on flame, on extinguishing. not all conflagration is death and dying,
+| not all hellfire. remember the flicker of the cherub’s sword protecting the garden?—this is that breath of blaze.
+
+| {#cr-pval-wiki}
+| In null-hypothesis significance testing, the p-value is the probability of obtaining test results
+| at least as extreme as the result actually observed, under the assumption that the null hypothesis is correct.
+| A very small p-value means that such an extreme observed outcome would be very unlikely under the null hypothesis.
+| Even though reporting p-values of statistical tests is common practice in academic publications of many quantitative fields,
+| misinterpretation and misuse of p-values is widespread and has been a major topic in mathematics and metascience.
+
+This is the beginning of a poem inspired by St. Mark's National Wildlife Refuge called "Controlled Burn(ing) Haibun" by Chris Watkins. `https://www.thedodgemag.com/chriswatkins1`
+@cr-start-wildlife
+
+
+
+The author goes on to create two erasure poems based on this text.
+[@cr-start-wildlife]{hlz="1"}
+
+
+
+
+
+An erasure poem takes some other text and crosses out parts of it, revealing a new text.
+@cr-erase-wildlife
+
+
+
+Like this...
+@cr-erase-wildlife2
+
+
+
+
+
+
+
+**Your Turn**: Make an erasure poem out of the first paragraph on Wiki about p-values.
+@cr-pval-wiki
+
+:::
+
