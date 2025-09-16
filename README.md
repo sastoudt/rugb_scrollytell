@@ -7,13 +7,15 @@ Install the closereads extension (or update it) by running the following command
 
 Then you should be able to render [`test.qmd`](https://github.com/sastoudt/rugb_scrollytell/blob/main/test.qmd) to see the example for today.
 
+There are some introductory slides [here](https://docs.google.com/presentation/d/1A3UEzfv4aVzzQgYgqr5gD2mY9ovXa17uckxyI_40bUw/edit?usp=sharing).
+
 ## Data Scrollytelling Contest
 
 [https://www.causeweb.org/cause/contests/data-scrollytelling]()
 
 **Deadline: 12/20/25**
 
-## Closeread Resources
+## Closeread resources
 
 - [Documentation](https://closeread.dev/) 
 - [Video introduction](https://youtu.be/KqLxy66B3lQ)
@@ -21,10 +23,10 @@ Then you should be able to render [`test.qmd`](https://github.com/sastoudt/rugb_
 - [Tutorial from Tyler George](https://stats-tgeorge.github.io/STA364_TSApps/project/closeread_tutorial.html)
 - [Template from Tyler George](https://github.com/stats-tgeorge/STA364_TSApps/tree/master/project/_closeread_project_template_folder)
 - [Student examples from Tyler George](https://stats-tgeorge.github.io/STA364_TSApps/project/project.html)
--[There's an app for that...](https://ethan-meyers-test.shinyapps.io/scrollytellr/)
+- [There's an app for that...](https://ethan-meyers-test.shinyapps.io/scrollytellr/)
 
 
-## Information about Scrollytelling
+## Information about scrollytelling
 
 - [One of the first...](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)
 - [An overview](https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964)
