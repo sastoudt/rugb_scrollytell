@@ -13,8 +13,6 @@ format:
 
 ---
 
-This is your template document. 
-
 Let's see what kinds of stories we can tell with *Closeread*.
 
 :::{.cr-section}

@@ -1,6 +1,12 @@
 # rugb_scrollytell
 materials for rugb scrollytell workshop
 
+Install the closereads extension (or update it) by running the following command in the directory you wish to use it:
+
+`quarto add qmd-lab/closeread`
+
+Then you should be able to render [`test.qmd`](https://github.com/sastoudt/rugb_scrollytell/blob/main/test.qmd) to see the example for today.
+
 ## Data Scrollytelling Contest
 
 [https://www.causeweb.org/cause/contests/data-scrollytelling]()
