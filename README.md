@@ -38,4 +38,8 @@ There are some introductory slides [here](https://docs.google.com/presentation/d
 - [Energy for Lights](https://pudding.cool/2020/12/lighting-cost/)
 - [Art + Poetry](https://www.nytimes.com/interactive/2022/03/06/books/auden-musee-des-beaux-arts.html)
 
+## Writing resources
+
+If you are a Bucknell student/faculty/staff, you have free e-book access to my book with Deborah Nolan, "Communicating with data: the art of writing for data science" [here](https://bucknell.on.worldcat.org/oclc/1261275061). I recommend checking out Chapter 6 (storyboarding and finding the story), Section 7.3.5 (captions) and Section 9.4 (narrative arc and transitions). You can also read more about the storyboarding process [here](https://doi.org/10.1080/00031305.2025.2539997).
+
 
