@@ -217,7 +217,7 @@ What's going on with that lone shark on the west coast?
 
 
 
-**Need plots for your own story? Get some inspiration here**: `https://sara-stoudt.shinyapps.io/movement/` In particular, check out the "National Parks: A Deeper Dive" tab.
+**Need plots for your own story? Get some inspiration here**: `https://github.com/sastoudt/movement_data_prompts/tree/main` In particular, check out the "National Parks: A Deeper Dive" tab of the app linked to at the bottom of the README. 
 @cr-image_ex6
 :::
 
