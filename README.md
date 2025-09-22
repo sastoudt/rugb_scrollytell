@@ -11,7 +11,7 @@ There are some introductory slides [here](https://docs.google.com/presentation/d
 
 ## Data Scrollytelling Contest
 
-[https://www.causeweb.org/cause/contests/data-scrollytelling]()
+[https://www.causeweb.org/cause/contests/data-scrollytelling](https://www.causeweb.org/cause/contests/data-scrollytelling)
 
 **Deadline: 12/20/25**
 
