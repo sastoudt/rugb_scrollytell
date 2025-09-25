@@ -37,6 +37,7 @@ There are some introductory slides [here](https://docs.google.com/presentation/d
 - [Loneliness](https://pudding.cool/2023/09/invisible-epidemic/)
 - [Energy for Lights](https://pudding.cool/2020/12/lighting-cost/)
 - [Art + Poetry](https://www.nytimes.com/interactive/2022/03/06/books/auden-musee-des-beaux-arts.html)
+- [Architecture and Math](https://www.nytimes.com/interactive/2025/09/24/science/barcelona-architecture-math.html)
 
 ## Writing resources
 
